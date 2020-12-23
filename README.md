@@ -4,7 +4,7 @@
 - 사진명입력(확장자명까지 입력)
 - img.jpeg 에 사진 저장됨
 
-<img src='./cats.jpeg'/>
+<img src='./cats.png'/>
 
 ## TO
 
